@@ -16,7 +16,3 @@
 		
 </dl>
 </div>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/owlbemi?theme=light&font=Galdeano&ext=activity)
-
-<br/><br/>
